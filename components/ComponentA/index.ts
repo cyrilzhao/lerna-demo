@@ -6,6 +6,7 @@ class ComponentA implements Component.A {
   }
 
   getFirstName () {
+    console.log('aaa')
     return this.name
   }
 }
