@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/cyrilzhao/lerna-demo/compare/ProjectA@1.1.3...ProjectA@1.2.0) (2020-02-08)
+
+
+### Features
+
+* **all:** 测试 ([2812995](https://github.com/cyrilzhao/lerna-demo/commit/28129952103faa64079fe132d2e6d96c43d50e35))
+
+
+
+
+
 ## [1.1.3](https://github.com/cyrilzhao/lerna-demo/compare/ProjectA@1.1.2...ProjectA@1.1.3) (2020-02-08)
 
 **Note:** Version bump only for package ProjectA

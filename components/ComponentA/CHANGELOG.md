@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/cyrilzhao/lerna-demo/compare/@bihu/ComponentA@1.4.0...@bihu/ComponentA@1.5.0) (2020-02-08)
+
+
+### Features
+
+* **all:** 测试 ([2812995](https://github.com/cyrilzhao/lerna-demo/commit/28129952103faa64079fe132d2e6d96c43d50e35))
+
+
+
+
+
 # [1.4.0](https://github.com/cyrilzhao/lerna-demo/compare/@bihu/ComponentA@1.3.0...@bihu/ComponentA@1.4.0) (2020-02-08)
 
 
