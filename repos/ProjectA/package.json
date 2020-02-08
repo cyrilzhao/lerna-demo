@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "ProjectA",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bihu/ComponentA": "^1.0.4",
+    "@bihu/ComponentA": "^1.2.0",
     "moment": "^2.24.0"
   }
 }

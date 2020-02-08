@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/cyrilzhao/lerna-demo/compare/@bihu/ComponentA@1.1.0...@bihu/ComponentA@1.2.0) (2020-02-08)
+
+
+### Features
+
+* **ComponentA:** 第三次修改 ComponentA ([f8180fc](https://github.com/cyrilzhao/lerna-demo/commit/f8180fc4d143029047f66c1f092d7a7c7ff1e465))
+
+
+
+
+
 # 1.1.0 (2020-02-08)
 
 
